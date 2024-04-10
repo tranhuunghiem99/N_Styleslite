@@ -33087,7 +33087,7 @@
           TheNavigation: J,
         },
         data: function () {
-          return { currentTab: "infomations", tabs: ["infomations", "styles", "sync"] };
+          return { currentTab: "styles", tabs: ["styles", "sync"] };
         },
         computed: {
           currentTabComponent: function () {
