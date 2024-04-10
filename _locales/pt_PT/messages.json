@@ -1,0 +1,424 @@
+{
+   "add_new_style": {
+      "message": "Adicionar um novo estilo..."
+   },
+   "adjust_page_layout": {
+      "message": "Ajustar o layout da Página"
+   },
+   "background_color": {
+      "message": "Fundo da tela"
+   },
+   "backup": {
+      "message": "Backup"
+   },
+   "backup_description": {
+      "message": "Exporte e Importe estilizações via JSON"
+   },
+   "basic_mode": {
+      "message": "Modo Básico"
+   },
+   "basic_mode_description": {
+      "message": "Editor visual de CSS"
+   },
+   "basics_options": {
+      "message": "Opções básicas"
+   },
+   "black": {
+      "message": "Preto"
+   },
+   "black_italic": {
+      "message": "Itálico Preto"
+   },
+   "bold": {
+      "message": "Negrito"
+   },
+   "bold_italic": {
+      "message": "Itálico Negrito"
+   },
+   "border": {
+      "message": "Borda"
+   },
+   "border_color": {
+      "message": "Cor da borda"
+   },
+   "border_dashed": {
+      "message": "Tracejado"
+   },
+   "border_dotted": {
+      "message": "Pontilhado"
+   },
+   "border_double": {
+      "message": "Dobrado"
+   },
+   "border_groove": {
+      "message": "Sulco"
+   },
+   "border_inset": {
+      "message": "Pra dentro"
+   },
+   "border_none": {
+      "message": "Sem borda"
+   },
+   "border_outset": {
+      "message": "Pra fora"
+   },
+   "border_properties": {
+      "message": "Propriedades das bordas"
+   },
+   "border_ridge": {
+      "message": "Ridge"
+   },
+   "border_solid": {
+      "message": "Sólido"
+   },
+   "border_style": {
+      "message": "Estilo da borda"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "close": {
+      "message": "Fechar"
+   },
+   "close_nstyles": {
+      "message": "Fechar Nstyles"
+   },
+   "code_mode": {
+      "message": "Modo de código"
+   },
+   "code_mode_description": {
+      "message": "Código"
+   },
+   "color_properties": {
+      "message": "Propriedades das cores"
+   },
+   "context_menu": {
+      "message": "Menu de contexto"
+   },
+   "customize": {
+      "message": "Customizar"
+   },
+   "dark_theme": {
+      "message": "Escuro"
+   },
+   "decrease_width": {
+      "message": "Diminuir comprimento"
+   },
+   "default": {
+      "message": "Padrão"
+   },
+   "delete": {
+      "message": "Deletar"
+   },
+   "delete_all_styles": {
+      "message": "Deletar todas as suas estilizações"
+   },
+   "delete_all_warning": {
+      "message": "Isso vai deletar permanentemente todas as suas estilizações. Você não pode desfazer isso."
+   },
+   "delete_style": {
+      "message": "Deletar estilo..."
+   },
+   "delete_style_for_url_description": {
+      "message": "Isso vai deletar seu css permanentemente para $url$. Você não pode desfazer essa ação.",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_for_url_title": {
+      "message": "Deletar estilos no $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1"
+         }
+      }
+   },
+   "delete_style_warning": {
+      "message": "Isso vai deletar permanentemente todas as suas estilizações. Você não pode desfazer isso."
+   },
+   "disable_all_styles": {
+      "message": "Desabilitar todos"
+   },
+   "disable_google_drive_sync": {
+      "message": "Desabilitar sincronização via Google Drive"
+   },
+   "dock_to_left": {
+      "message": "Fixar na esquerda"
+   },
+   "dock_to_right": {
+      "message": "Fixar na direita"
+   },
+   "HeheHe": {
+      "message": "Doar"
+   },
+   "download_synced_file": {
+      "message": "Baixar"
+   },
+   "editor": {
+      "message": "Editor"
+   },
+   "enable_all_styles": {
+      "message": "Habilitar todos"
+   },
+   "enable_google_drive_sync": {
+      "message": "Habilitar sincronização via Google Drive"
+   },
+   "enable_Tran_Huu_Nghiem": {
+      "message": "Ativar modo legivel"
+   },
+   "enable_right_click_menu": {
+      "message": "Habilitar menu com click com o botão direito"
+   },
+   "enter_css_selector": {
+      "message": "Escreva o seletor CSS..."
+   },
+   "export": {
+      "message": "Exportar"
+   },
+   "extension_description": {
+      "message": "Mude a aparência da web instantaneamente"
+   },
+   "font_family": {
+      "message": "Familia da fonte"
+   },
+   "font_size": {
+      "message": "Tamanho da fonte"
+   },
+   "font_style": {
+      "message": "Estilo da fonte"
+   },
+   "fonts": {
+      "message": "Fontes"
+   },
+   "fonts_description": {
+      "message": "Digite a lista de fontes separadas por vírgula para disponibilizar para estilo.Quaisquer fontes locais ou do Google são suportadas"
+   },
+   "fonts_edit_list": {
+      "message": "Editar a lista de fontes ..."
+   },
+   "global": {
+      "message": "Global"
+   },
+   "grayscale": {
+      "message": "Preto e Branco"
+   },
+   "grayscale_description": {
+      "message": "Aplicar Preto e Branco na página."
+   },
+   "height": {
+      "message": "Altura"
+   },
+   "help_options": {
+      "message": "Ajuda"
+   },
+   "hide": {
+      "message": "Esconder"
+   },
+   "hide_element": {
+      "message": "Aplicar CSS para mostrar/esconder elementos selecionados"
+   },
+   "import": {
+      "message": "Importar"
+   },
+   "import_error": {
+      "message": "Não foi possível importar estilizações - $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1"
+         }
+      }
+   },
+   "import_success": {
+      "message": "Estilos importados com sucesso"
+   },
+   "increase_width": {
+      "message": "Aumentar comprimento"
+   },
+   "inspect_description": {
+      "message": "Escolha um elemento na página para estiliza-lo"
+   },
+   "italic": {
+      "message": "Itálico"
+   },
+   "keyboard_shortcuts": {
+      "message": "Atalhos do teclado"
+   },
+   "layout_properties": {
+      "message": "Propriedades do layout"
+   },
+   "light": {
+      "message": "Fino"
+   },
+   "light_italic": {
+      "message": "Itálico fino"
+   },
+   "light_theme": {
+      "message": "Claro"
+   },
+   "line_height": {
+      "message": "Altura da linha"
+   },
+   "magic_mode": {
+      "message": "Modo mágico"
+   },
+   "magic_mode_description": {
+      "message": "Experimental features. May not work as expected on all pages.\nRecursos experimentais. Pode não funcionar como esperado em todas as páginas."
+   },
+   "margin": {
+      "message": "Margem"
+   },
+   "medium": {
+      "message": "Médio"
+   },
+   "medium_italic": {
+      "message": "Itálico médio"
+   },
+   "move_editor": {
+      "message": "Mover editor"
+   },
+   "none": {
+      "message": "Nenhum"
+   },
+   "open_delete_all_styles_dialog": {
+      "message": "Deletar tudo..."
+   },
+   "open_delete_style_dialog": {
+      "message": "Deletar..."
+   },
+   "open_edit_style_dialog": {
+      "message": "Editar..."
+   },
+   "open_nstyles": {
+      "message": "Abrir Nstyles"
+   },
+   "padding": {
+      "message": "Preenchimento"
+   },
+   "privacy_policy": {
+      "message": "Politica de privacidade\n\nNstyles nunca coletou e nunca irá coletar dados pessoais do usuário, histórico de pesquisa, etc. A permissão para acessar websites é para somente deixar você customizar o css para qualquer pagina e automaticamente aplicar seu CSS quando você visita a mesma página no futuro\n\n\nNo futuro, Nstyles poderá coletar versão do browser, nome da plataforma, configurações dos usuários (Exceto listas de websites visitados, ou outros dados que possam identificar o usuário). Essa informação é necessária para tomar decisões na implementação de novos recursos, remoção de recursos não utilizados ou na recomendação de opções para novos usuários. Isso só vai acontecer com sua permissão."
+   },
+   "Tran_Huu_Nghiem": {
+      "message": "Modo legível"
+   },
+   "Tran_Huu_Nghiem_description": {
+      "message": "Crie artigos nesse site legiveis ao esconder elementos não essenciais como pés, anúncios e barras laterais"
+   },
+   "regular": {
+      "message": "Regular"
+   },
+   "resize": {
+      "message": "Redimensionar"
+   },
+   "save": {
+      "message": "Salvar"
+   },
+   "see_whats_new_3_1": {
+      "message": "Olhe o que tem de novo na 3.1..."
+   },
+   "sepia_theme": {
+      "message": "Sepia"
+   },
+   "set_basic_mode": {
+      "message": "Mudar para o modo básico"
+   },
+   "set_code_mode": {
+      "message": "Mudar para o modo de código"
+   },
+   "set_magic_mode": {
+      "message": "Mudar para o modo mágico"
+   },
+   "show_help": {
+      "message": "Mostrar ajuda"
+   },
+   "store_listing": {
+      "message": "Você escolhe um elemento e as mudanças que você quer fazer nele no editor. Você pode escolher a fonte, cor, margens, visibilidade e muito mais. Você pode estilizar o CSS manualmente através de código.\n\n★ Fácil de usar: Escolha e estilize elementos sem precisar de código\n★ Simples e Rápido: Mudanças são salvas instantaneamente\n★ Editor de código - Escreva seu próprio CSS se quiser\n★ Modo legível - Crie artigos nesse site legiveis ao esconder elementos não essenciais como pés, anúncios e barras laterais\n★ Modo Preto e Branco- Ative o modo preto e branco e evite cansaço ao utilizar sites"
+   },
+   "style_element": {
+      "message": "Estilizar elemento"
+   },
+   "styles_options": {
+      "message": "Opções de estilização"
+   },
+   "styling": {
+      "message": "Estilização"
+   },
+   "sync_description": {
+      "message": "Você precisa sincronizar manualmente para atualizar os estilos remotos e locais."
+   },
+   "sync_in_progress": {
+      "message": "Sincronizando..."
+   },
+   "sync_now": {
+      "message": "Sincronizar agora"
+   },
+   "sync_options": {
+      "message": "Opções de sincronização"
+   },
+   "sync_via_google_drive": {
+      "message": "Sincronização manual via Google Drive"
+   },
+   "synced_at_time": {
+      "message": "Sincronizado $time$",
+      "placeholders": {
+         "time": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_align": {
+      "message": "Alinhamento"
+   },
+   "text_color": {
+      "message": "Cor do texto"
+   },
+   "text_decoration": {
+      "message": "Decoração do texto"
+   },
+   "text_properties": {
+      "message": "Propriedades de texto"
+   },
+   "text_transform": {
+      "message": "Capitalização"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "thin": {
+      "message": "Muito Fino"
+   },
+   "thin_italic": {
+      "message": "Itálico muito fino"
+   },
+   "toggle_editor": {
+      "message": "Habilitar/Desabilitar editor"
+   },
+   "toggle_grayscale": {
+      "message": "Habilitar/Desabilitar Preto e Branco"
+   },
+   "toggle_inspector": {
+      "message": "Habilitar/Desabilitar inspetor de elemento"
+   },
+   "toggle_Tran_Huu_Nghiem": {
+      "message": "Habilitar/Desabilitar modo legível"
+   },
+   "toggle_styling": {
+      "message": "Habilitar/Desabilitar Estilização"
+   },
+   "view_keyboard_shortcuts": {
+      "message": "Mostrar atalhos para o teclado..."
+   },
+   "view_options": {
+      "message": "Opções..."
+   },
+   "view_synced_file": {
+      "message": "Olhar"
+   },
+   "visibility": {
+      "message": "Visibilidade"
+   },
+   "width": {
+      "message": "Comprimento"
+   }
+}

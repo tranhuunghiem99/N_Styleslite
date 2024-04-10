@@ -1,0 +1,44 @@
+{
+   "author": "Tran_Huu_Nghiem",
+   "background": {
+      "scripts": [ "background/index.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icon.png",
+         "24": "img/icon.png",
+         "32": "img/icon.png"
+      },
+      "default_popup": "popup/index.html",
+      "default_title": "Nstyles"
+   },
+   "content_scripts": [ {
+      "exclude_matches": [ "*://*/*.xml" ],
+      "js": [ "editor/index.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "*://*/*.xml" ],
+      "js": [ "inject-css/index.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "img/icon.png",
+      "16": "img/icon.png",
+      "48": "img/icon.png"
+   },
+   "manifest_version": 2,
+   "name": "Nstyles",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options/index.html"
+   },
+   "permissions": [ "tabs", "storage", "identity", "contextMenus", "unlimitedStorage", "https://drive.google.com/*", "https://www.googleapis.com/*", "https://fonts.googleapis.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "20.05.09",
+   "web_accessible_resources": [ "editor/index.css", "Tran_Huu_Nghiem/index.css", "monaco-editor/*" ]
+}
