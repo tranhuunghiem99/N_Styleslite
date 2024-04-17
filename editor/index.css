@@ -571,6 +571,7 @@
 .nstyles-body {
   overflow: auto;
   height: calc(100% - 125px);
+  padding-bottom: 100px;
   /* border-color: red;  background-image: url("https://www.icegif.com/wp-content/uploads/2022/07/icegif-1404.gif");
     background-size: 30px 30px;
     background-repeat: no-repeat !important ;
